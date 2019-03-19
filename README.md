@@ -1,2 +1,2 @@
-# express-es6-boilerplate
-Simple Nod.js Express boiler plate using babel7
+# Express-ES6-Boilerplate
+Simple Node.js, Express Boilerplate using babel-7
